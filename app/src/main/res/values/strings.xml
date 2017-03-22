@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Simsen Test</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="status">Status</string>
+
+    <string name="log_start_sending">Started sending the SMS at: %s</string>
+    <string name="log_sent">SMS sent at: %s</string>
+    <string name="log_received">SMS received at: %s</string>
+
+    <string name="status_sent">Sent</string>
+    <string name="status_sending">Sending</string>
+    <string name="status_failed">Failed</string>
+    <string name="status_delivered">Delivered</string>
+    <string name="status_received">Received</string>
+    <string name="status_none">None</string>
+
+    <string name="sms_body">Simsen Test. Sms sent at: %s</string>
+
+    <!-- Preference Strings -->
+    <string name="pref_json_logs_key">json-logs</string>
+    <string name="date_format">dd-MM-YY, hh:mm:ss</string>
+</resources>
